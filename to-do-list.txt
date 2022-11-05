@@ -1,0 +1,5 @@
+**DO TO LIST**
+
++ add more pictures
++ create more html pages for the about and contact us form
++ start to add JS in it 
